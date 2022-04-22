@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row_info {
+    padding: 20px;
+    margin: 20px;
+}
+
+.d-block {
+    width: 100%;
+}
+
+.primero {
+    font-size: 55px;
+}
